@@ -1,0 +1,3 @@
+name,hostname,username,password,port,platform,groups,custom_var
+R1,192.168.122.10,cisco,cisco,22,cisco_ios,core main,foo
+R2,192.168.122.20,cisco,cisco,22,cisco_xr,,bar
